@@ -2,7 +2,7 @@
 
 # Why i made this project
 
-I am late to school everyday because I sleep in late so I made an alarm clock to wake me up.
+I get late to school everyday because I sleep in late so I made an alarm clock to wake me up.
 
 # Images
 
